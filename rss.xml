@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[a bigger picture]]></title>
         <description><![CDATA[a bigger picture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-bigger-picture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 07:38:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 08:03:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-bigger-picture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74a5907f-2453-43c6-8329-756ec2ec1975.jpg">]]></description>
+            <link>https://thegrid.ai/a-bigger-picture/animal-photography/index.html</link>
+            <guid isPermaLink="false">945529e7-d38f-44d4-a311-4fcc8a3238b5</guid>
+            <pubDate>Wed, 09 Mar 2016 08:02:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About</p>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/a-bigger-picture/about/index.html</link>
             <guid isPermaLink="false">c92b4793-6d6c-494a-b903-431b3049154e</guid>
             <pubDate>Wed, 09 Mar 2016 07:38:08 GMT</pubDate>
         </item>

@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Animal Photography
-datePublished: '2016-03-09T13:07:57.258Z'
-dateModified: '2016-03-09T09:18:32.810Z'
-title: ''
+description: ''
+datePublished: '2016-03-09T13:12:05.858Z'
+dateModified: '2016-03-09T13:11:56.374Z'
+title: Animal Photography
 author: []
 sourcePath: _posts/2016-03-09-animal-photography.md
 published: true
@@ -22,7 +22,7 @@ url: animal-photography/index.html
 _type: Article
 
 ---
-Animal Photography
+# Animal Photography
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/190ee433-0ece-4da0-a798-e6c6d642b849.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7e6ee22-f22d-49b3-8a79-452f036d7100.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1427f707-8f59-4b17-8a84-035982deb3c1.jpg)

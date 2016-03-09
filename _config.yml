@@ -1,6 +1,6 @@
 name: A Bigger Picture
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.18973
 typography_spectrum: 0.47713
 title: a bigger picture
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f7fcff'
-    - '#30332a'
-    - '#635d45'
-    - '#9ab3b7'
-    - '#238a02'
+    - '#f9f9f9'
+    - '#020202'
+    - '#7d7d7d'
+    - '#616161'
+    - '#393939'
   brandStrength: 0
   lightness: 0
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []

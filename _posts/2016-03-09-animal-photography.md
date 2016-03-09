@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-09T13:35:11.587Z'
-dateModified: '2016-03-09T13:35:10.462Z'
+datePublished: '2016-03-09T13:42:34.582Z'
+dateModified: '2016-03-09T13:38:12.285Z'
 title: Animal Photography
 author: []
 sourcePath: _posts/2016-03-09-animal-photography.md

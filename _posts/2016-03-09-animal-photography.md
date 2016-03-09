@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-09T13:42:34.582Z'
-dateModified: '2016-03-09T13:38:12.285Z'
+description: Animals
+datePublished: '2016-03-09T13:42:48.015Z'
+dateModified: '2016-03-09T13:42:39.412Z'
 title: Animal Photography
 author: []
 sourcePath: _posts/2016-03-09-animal-photography.md

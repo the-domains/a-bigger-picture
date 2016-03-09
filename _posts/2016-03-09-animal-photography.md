@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Animal Photography
-datePublished: '2016-03-09T08:19:40.612Z'
-dateModified: '2016-03-09T08:06:30.360Z'
+datePublished: '2016-03-09T08:57:28.463Z'
+dateModified: '2016-03-09T08:19:54.469Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-animal-photography.md

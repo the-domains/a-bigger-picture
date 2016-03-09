@@ -1,6 +1,6 @@
 name: A Bigger Picture
 favicon: null
-layout_spectrum: 0.21038
+layout_spectrum: 0
 typography_spectrum: 0.47713
 title: a bigger picture
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
